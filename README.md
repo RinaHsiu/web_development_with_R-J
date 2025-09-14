@@ -124,22 +124,36 @@ more!
 
 ---
 
-My Goals
-1. Why do I want to learn this skill?
-What does it mean to you? What are your motivations? Will you prove something to yourself or
-people around you? Will you get a raise because you’re better at your job or will you get a better job?
-2. What will I achieve if I learn this skill?
-Which doors will this skill open for you? Will you be able to earn more, have more flexibility in your
-work hours, work remotely and travel more?
-3. How will this skill change my life and my career?
-Would you get a raise at your current job or more respect from your boss once you’ve learnt this skill?
-Or will you be at Facebook, Amazon or Google instead? How would your life change?
-4. How will learning this skill impact the lives of my family,
-friends and coworkers?
-What will you be able to do for your family or friends once you’ve learnt this skill? How will it change
-the way they think of you? Will your coworkers respect you more?
-5. How will I feel if I never accomplish this?
-Would you feel disappointed? Would you feel like you’ve missed out?
-6. What would my life look like if I manage to accomplish this?
-Visualise it. What would life look like from the moment you wake up to the time you go to sleep? Will
-you be living by the sea? Would you kiss your beautiful wife/husband when you wake up?
+# Day 4 14/09/25
+
+## Udemy
+
+### Void Elements
+A void element has NO content
+
+**Horizontal Rule**
+<hr/> 
+this is a void elemet because it has no content.
+this creates a line
+
+**Breack Element**
+<br/>
+this is also a c=void element because it has no content
+this crates a new line is sometimes used in poems.
+
+### Best Movies Project
+
+MY FIRST WEBSITE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+YAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYAY
+
+this is a simple webpage combining everything we've learnt so far.
+
+## What are my feelings 
+Happy
+Proud
+Yay!!!!!!!!!!!!!
+
+## What's next?
+More!
+
+---
