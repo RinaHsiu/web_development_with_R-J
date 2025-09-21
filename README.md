@@ -212,9 +212,34 @@ MORE!
 
 ## Udemy
 
+### Anchor Element
+The Anchor element allows us to create HyperLinks!
+
+<a>This is a link</a>
+this does NOT work!!!
+
+you need to add an ATTRIBUTE
+
+<a href="http://www.google.com">This is a link</a>
+it will always be
+<tag attribute=value>content</tag>
+
+fun fact! 
+- you can have more than one attribute!
+- just seperate them with a space
+
+**href**
+<a href="dfhjakjhdfakhjgdsf">this link is created using href!</a>
+- stands for "Hypertext Reference"
+- used to go to other addresses(web pages, websites)
+
 ## What are my feelings
+- tired
+- happy because i made my first website with HyperLinks!
+- ye
 
 ## What's Next?
+- more!
 
 ---
 
