@@ -157,3 +157,143 @@ Yay!!!!!!!!!!!!!
 More!
 
 ---
+
+# Day 5 19/09/25
+
+## Udemy
+
+### List Element 
+
+**Unordered list**
+<ul>
+   <li>Milk</li>
+   <li>Eggs</li>
+   <li>Flour</li>
+</ul>
+
+an unordered list uses bullet points
+
+**Ordered list**
+<ol>
+   <li>Milk</li>
+   <li>Eggs</li>
+   <li>Flour</li>
+</ol>
+
+an ordered list uses numbers
+
+### Nesting and indentation
+we can actually nest a list insode another list! this is where indentation becomes important.
+
+**E.G**
+<ul>
+   <li>A</li>
+   <li>B
+      <ul>
+         <li>B1</li>
+      </ul>
+   </li>
+</ul>
+
+**Life Hack**
+Do the first list first then start to add the nested ones. it makes life SO MUCH EASIER!
+
+## What are my feelings
+- happy
+- tired
+- annoyed cause i had to type all this in twice
+
+## Whats next?
+MORE!
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
