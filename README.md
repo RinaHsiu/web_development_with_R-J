@@ -221,8 +221,10 @@ this does NOT work!!!
 you need to add an ATTRIBUTE
 
 <a href="http://www.google.com">This is a link</a>
-it will always be
-<tag attribute=value>content</tag>
+
+it will always be like this:
+
+<tag then attribute then = then value>content</tag>
 
 fun fact! 
 - you can have more than one attribute!
