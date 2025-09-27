@@ -212,6 +212,7 @@ MORE!
 
 ## Udemy
 
+<<<<<<< HEAD
 ## What are my feelings
 
 ## What's Next?
@@ -229,6 +230,74 @@ MORE!
 ---
 
 # Day 6 21/09/25
+=======
+### Anchor Element
+The Anchor element allows us to create HyperLinks!
+
+<a>This is a link</a>
+this does NOT work!!!
+
+you need to add an ATTRIBUTE
+
+<a href="http://www.google.com">This is a link</a>
+
+it will always be like this:
+
+<tag then attribute then = then value>content</tag>
+
+fun fact! 
+- you can have more than one attribute!
+- just seperate them with a space
+
+**href**
+<a href="dfhjakjhdfakhjgdsf">this link is created using href!</a>
+- stands for "Hypertext Reference"
+- used to go to other addresses(web pages, websites)
+
+## What are my feelings
+- tired
+- happy because i made my first website with HyperLinks!
+- ye
+
+## What's Next?
+- more!
+
+---
+
+# Day 7 28/09/25
+
+## Udemy
+
+### Image Element
+the image element allows us to add images onto our website!
+
+<img scr="url"/>
+- scr is the source of image
+- url is the location of the image
+- it is a void element
+
+  <img scr="url" alt="description"/>
+  - we sometimes need to add a description for the image for blind people or people who need a screen reader.
+
+  **Fun Fact**
+  - url stands for
+  - Uniform Resource Locator!
+
+### Birthday Invitation program
+using everything we learned in section 3!
+
+## What are my feelings
+- tired
+- happy cause we finished section 3!!!!!
+- ye...
+  
+## What's Next?
+- more!
+  
+---
+
+# Day 8 28/09/25
+
 
 ## Udemy
 
