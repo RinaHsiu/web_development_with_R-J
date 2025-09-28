@@ -245,17 +245,39 @@ fun fact!
 
 ---
 
-# Day 6 21/09/25
+# Day 7 28/09/25
 
 ## Udemy
 
+### Image Element
+the image element allows us to add images onto our website!
+
+<img scr="url"/>
+- scr is the source of image
+- url is the location of the image
+- it is a void element
+
+  <img scr="url" alt="description"/>
+  - we sometimes need to add a description for the image for blind people or people who need a screen reader.
+
+  **Fun Fact**
+  - url stands for
+  - Uniform Resource Locator!
+
+### Birthday Invitation program
+using everything we learned in section 3!
+
 ## What are my feelings
-
+- tired
+- happy cause we finished section 3!!!!!
+- ye...
+  
 ## What's Next?
-
+- more!
+  
 ---
 
-# Day 6 21/09/25
+# Day 8 28/09/25
 
 ## Udemy
 
