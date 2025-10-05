@@ -210,27 +210,6 @@ MORE!
 
 # Day 6 21/09/25
 
-## Udemy
-
-<<<<<<< HEAD
-## What are my feelings
-
-## What's Next?
-
----
-
-# Day 6 21/09/25
-
-## Udemy
-
-## What are my feelings
-
-## What's Next?
-
----
-
-# Day 6 21/09/25
-=======
 ### Anchor Element
 The Anchor element allows us to create HyperLinks!
 
@@ -296,14 +275,47 @@ using everything we learned in section 3!
   
 ---
 
-# Day 8 28/09/25
-
+# Day 8 03/10/25
 
 ## Udemy
 
+### File paths
+there are two types of file paths
+- Absolute
+- Relative
+a file path is basically
+- DIRECTIONS TO A SPECIFIC LOCATION
+
+**Absolute file path**
+- windows: c:/project/images/cat.png
+- mac: /project/images/cat.png
+
+this is useful as you can navigate to the specific location from anywhere on your computer
+
+An absolute file path is like you asking a stranger to go get you something from your house(don't do this in real life. its dangerous)
+You need to tell them the postcode and loads of directons for them to know where to go
+
+**Relative file path**
+this is used more in web development
+- images/cat.png
+- shorter
+- move folders arround(doesn't matter)
+
+  you can think of this as asking your family to go get you something from your house, they know where you live so you don't need to tell them the directions
+
+  **Special Characters**
+  ../
+  up a level
+
+  ./
+  current directory
+
 ## What are my feelings
+- tired
+-  happy
 
 ## What's Next?
+- MORE!
 
 ---
 
