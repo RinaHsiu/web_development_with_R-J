@@ -319,14 +319,33 @@ this is used more in web development
 
 ---
 
-# Day 6 21/09/25
+# Day 9 05/10/25
 
 ## Udemy
 
+### Webpages
+<a href="./about.html">About Page<a/>
+
+**Watch out!**
+if a folder has no files but has folders, it is shown like this:
+- asset/images
+think of it like this
+- assets
+-    images
+-       cat.png
+
+**Tips**
+if you want to put a link in an image, just put the image where you would normally put the word.
+e.g.
+- <a href="./aelkfjldfhksajdfhk"><img src="kfhksjfhsdf"><a/>
+
 ## What are my feelings
-
+- tired
+- ye
+  
 ## What's Next?
-
+- more
+  
 ---
 
 # Day 6 21/09/25
