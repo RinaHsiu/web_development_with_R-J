@@ -348,14 +348,36 @@ e.g.
   
 ---
 
-# Day 6 21/09/25
+# Day 10 10/10/25
 
 ## Udemy
 
+### HTML Boilerplate
+A bit like a letter it has many structures
+
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <title>My Website</title>
+   </head>
+   <body>
+      <h1>Hello World!</h1>
+   </body>
+</html>
+
+more in notebook
+
 ## What are my feelings
+- happy
+- tired
+- excited for newxt time!
+- ye
 
 ## What's Next?
-
+- more!
+- first portfolio!
+  
 ---
 
 # Day 6 21/09/25
