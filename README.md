@@ -1,4 +1,4 @@
-# web_development_with_R-J
+https://rinahsiu.github.io/rina_portfolio/# web_development_with_R-J
 in this repository, we are going to take you along with us on our journey with Dr Angela Yu who is going to teach us all about web development!
 
 
@@ -380,13 +380,24 @@ more in notebook
   
 ---
 
-# Day 6 21/09/25
+# Day 11 12/10/25
 
 ## Udemy
 
-## What are my feelings
+### Portfolio Project
+made a portfolio that contains everything we've learnt so far.
+we also made it a real live website on the internet!!!
+https://rinahsiu.github.io/rina_portfolio/
 
+## What are my feelings
+- tired
+- annoyed cause i wamnt to GO TO BED!!!!!
+- happy
+- ye
+  
 ## What's Next?
+- CSS!!!!
+- more
 
 ---
 
