@@ -1,4 +1,4 @@
-https://rinahsiu.github.io/rina_portfolio/# web_development_with_R-J
+# web_development_with_R-J
 in this repository, we are going to take you along with us on our journey with Dr Angela Yu who is going to teach us all about web development!
 
 
