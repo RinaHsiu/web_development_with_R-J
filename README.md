@@ -401,13 +401,50 @@ https://rinahsiu.github.io/rina_portfolio/
 
 ---
 
-# Day 6 21/09/25
+# Day 12 18/10/25
 
 ## Udemy
 
-## What are my feelings
+### Css
+there are 3 different types of adding css
+- inline
+- internal
+- external
 
+**Inline**
+- goes into the same line as the html element
+- used to add a single element
+- only for specific sections
+
+**Internal**
+- useful to apply to one html document/webpage
+- not sutable for multi page websites
+
+**External**
+- lives in a different file
+- used for multi page websites
+- used most commonly
+
+### DNS
+we also learnt what dns was and fixed my website
+
+- dns stand for domain name system
+- its like a phone book on the internet
+
+how to trouble shoot
+1. add your domain in git hub pages settings
+2. so to go daddy and set DNS records
+3. enable HTTPS
+next time, just use GPT
+
+## What are my feelings
+- tired
+- happy
+- mad at my dad
+- ye
+  
 ## What's Next?
+- more
 
 ---
 
