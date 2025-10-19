@@ -448,6 +448,64 @@ next time, just use GPT
 
 ---
 
+# Day 13 19/10/25
+
+## Udemy
+
+### CSS Selectors
+there are 5 different ways of applying CSS to your code:
+- element selector
+- class selector - .khfsdkjfhskd
+- id selector - #lsjdfhskfh
+- attribute selector - [ksdfhskd]
+- universal selector - *
+
+## What are my feelings
+- happy
+- tired
+- ye
+  
+## What's Next?
+- more!
+  
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
 # Day 6 21/09/25
 
 ## Udemy
@@ -456,6 +514,42 @@ next time, just use GPT
 
 ## What's Next?
 
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
 ---
 
 # Day 6 21/09/25
