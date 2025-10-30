@@ -470,13 +470,31 @@ there are 5 different ways of applying CSS to your code:
   
 ---
 
-# Day 6 21/09/25
+# Day 14 30/10/25 (Day before HALLOWEEN!!!!!!!!!!)
 
 ## Udemy
 
+### project
+learnbt spanish words that i already knew!
+just kidding!
+changed the font weight and the colour od the h2s and changed the six=ze of the images (use img)
+
+### CSS Color Proterties
+**Hex Numbers**
+to find our more colours, go to ColorHunt.co!
+all the colors are made up of fractions of red, green and blue.
+
+#5d3891 is purple
+
 ## What are my feelings
+- happy because i made a very pretty webpage!
+- excited cause tomorrow is halloween!
+- soooooo hungry and thirsty
+- ye
 
 ## What's Next?
+- more!!!!
+  
 ---
 
 # Day 6 21/09/25
