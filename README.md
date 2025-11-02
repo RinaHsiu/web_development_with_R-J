@@ -545,13 +545,39 @@ what the ftext look like
   
 ---
 
-# Day 6 21/09/25
+# Day 16 2/11/25
 
 ## Udemy
 
-## What are my feelings
+### the box model
+margin, border and padding
 
+**border**
+no matter the border, the original shape doesn't change
+
+**padding**
+pushes border out
+adds space between shape and border
+
+**margin**
+adds space between next element and shape
+
+All three of these can take 4 values
+4 values: different on all 4 sides
+2 values: top/bottom left/right
+1 value: all sides
+
+**content division element (HTML)**
+this element is invisible
+it is used to group differnt elemtns together.
+
+## What are my feelings
+- happy
+  
 ## What's Next?
+- more
+- project
+  
 ---
 
 # Day 6 21/09/25
