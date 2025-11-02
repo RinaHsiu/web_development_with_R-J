@@ -497,22 +497,87 @@ all the colors are made up of fractions of red, green and blue.
   
 ---
 
-# Day 6 21/09/25
+# Day 15 31/10/25 A.K.A HALLOWEEN!!!!!!!!
 
 ## Udemy
 
+### Font Properties
+changes appearance of text
+
+types:
+- font-weight
+- font-size
+- font-family
+
+**font-size**
+1px = 1/96th inch or 0.26mm
+1pt = 1/72nd inch or 0.35mm
+these two are both static
+
+1 em = 100% of parent
+1rem =- 100% of root
+these two are relative
+
+**font-weight**
+a font can be normal or bold
+
+number:
+100-900
+light-bold
+
+**font family**
+what the ftext look like
+ to search for fonts, go to fonts.google .com!
+
+ **Text-align**
+ text align is where the text starts.
+ left, right, start,end
+
 ## What are my feelings
+- headache
+- tired
+- excited cause its halloween!!!!!!!!!!!
+- happy
+- ye
 
 ## What's Next?
+- more!!!
+  
 ---
 
-# Day 6 21/09/25
+# Day 16 2/11/25
 
 ## Udemy
 
-## What are my feelings
+### the box model
+margin, border and padding
 
+**border**
+no matter the border, the original shape doesn't change
+
+**padding**
+pushes border out
+adds space between shape and border
+
+**margin**
+adds space between next element and shape
+
+All three of these can take 4 values
+4 values: different on all 4 sides
+2 values: top/bottom left/right
+1 value: all sides
+
+**content division element (HTML)**
+this element is invisible
+it is used to group differnt elemtns together.
+
+## What are my feelings
+- happy
+  
 ## What's Next?
+- more
+- project
+  
 ---
 
 # Day 6 21/09/25
