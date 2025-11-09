@@ -580,13 +580,29 @@ it is used to group differnt elemtns together.
   
 ---
 
-# Day 6 21/09/25
+# Day 17 07/11/25
 
 ## Udemy
 
-## What are my feelings
+### Motivation Meme Project
+created a project that had a funny motivation mem on it
+used:
+- css
+- html boilerpate
 
+end of section6. intermediate CSS!
+
+## What are my feelings
+- tired
+- headache
+- thristy
+- happy cause the prohect was fun
+- need sleep because its 10pm
+  
 ## What's Next?
+- more!
+- start section 7
+  
 ---
 
 # Day 6 21/09/25
