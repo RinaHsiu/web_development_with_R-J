@@ -605,14 +605,33 @@ end of section6. intermediate CSS!
   
 ---
 
-# Day 6 21/09/25
+# Day 18 09/11/25
 
 ## Udemy
 
+### CSS Cascade
+**Position**
+ther lower down the file the rule is, the more important it is
+
+**Specificity**
+element selector ---> class selector ---> attriubute selector ---> id selector
+
+**Type**
+external ----> internal -----> inline
+
+**Importance**
+if it has !importnat in it, it doesn't matter if there are other rules.
+THIS IS THE TOP TRUMP!!!!
+
 ## What are my feelings
-
+- tired
+- happy
+- ssad cause tomorrow is Monday
+- ye
+  
 ## What's Next?
-
+- More!
+  
 ---
 
 # Day 6 21/09/25
