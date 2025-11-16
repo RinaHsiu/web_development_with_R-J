@@ -634,13 +634,38 @@ THIS IS THE TOP TRUMP!!!!
   
 ---
 
-# Day 6 21/09/25
+# Day 19 15/11/25
 
 ## Udemy
 
+### Combining CSS Selectors
+**Group**
+- apply to both selectors
+- separate with a comma
+
+**Child**
+- apply to direct child of left side
+- separate with greater than symbol
+
+**Descendant**
+- apply to a descendant pf left side
+- separate with a space
+
+**Chaining**
+- apply when all selectors are true
+- no space between
+
+**Combining Coknbiners**
+-  this is where you can combine different types of combiners for a specific element
+
 ## What are my feelings
+- happy
+- tired
+- excited cause im going to watch little shop of horrors after!
 
 ## What's Next?
+- more!
+  
 ---
 
 # Day 6 21/09/25
