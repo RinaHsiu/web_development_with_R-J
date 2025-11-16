@@ -668,6 +668,69 @@ THIS IS THE TOP TRUMP!!!!
   
 ---
 
+# Day 20 16/11/25
+
+## Udemy
+
+### CSS positioning
+
+**Static Positioning**
+- HTML default flow
+
+**Relative Positioning**
+- position relative to default position
+
+**Absolute Positioning**
+- position relative to nearest positioned ancester OR top left corner of webpage
+- z-index
+  - when an object has a larger z-index, it will go be shown front
+
+**Fixed positioning**
+- position relative to top left corner of BROWSER window
+
+### CSS flag project
+- learnt how to use all of the skills that we've learnt in this section.
+
+## What are my feelings
+- annoyed
+- tired
+- happy
+- sad cause tomorrow is school
+  
+## What's Next?
+- more
+- advanced CSS
+  
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
 # Day 6 21/09/25
 
 ## Udemy
