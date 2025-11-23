@@ -703,22 +703,68 @@ THIS IS THE TOP TRUMP!!!!
   
 ---
 
-# Day 6 21/09/25
+# Day 6 21/11/25
 
 ## Udemy
 
-## What are my feelings
+### CSS Display
+there are 3 typoes of CSS Displaying.
+- inline
+- block
+- inline-block
 
+**Block**
+block is the default
+it takes up all the space width wise
+
+**Inline**
+makes things on the same line
+can't change size
+
+**Inline-block**
+a mixture of the two.
+can change size
+will go onto the same line if there is space
+
+## What are my feelings
+- happy
+- tired
+- thirsty
+- ye
+  
 ## What's Next?
+- more!!!!!!
+
 ---
 
-# Day 6 21/09/25
+# Day 22 23/11/25
 
 ## Udemy
 
-## What are my feelings
+### CSS Float
+makes the image able to wrap text
+- float
+- clear
 
+### Responsive Websites
+making websites look good on all screen sizes
+there are 4 ways of achieving this
+- Media Query
+- CSS grid
+- CSS Flexbox
+- Bootstrap Framework
+
+section 9-11 is dedicated to learning these.
+
+## What are my feelings
+- confused
+- happy
+- tired
+- ye
+  
 ## What's Next?
+- more!!!!
+  
 ---
 
 # Day 6 21/09/25
