@@ -737,13 +737,34 @@ will go onto the same line if there is space
 
 ---
 
-# Day 6 21/09/25
+# Day 22 23/11/25
 
 ## Udemy
 
-## What are my feelings
+### CSS Float
+makes the image able to wrap text
+- float
+- clear
 
+### Responsive Websites
+making websites look good on all screen sizes
+there are 4 ways of achieving this
+- Media Query
+- CSS grid
+- CSS Flexbox
+- Bootstrap Framework
+
+section 9-11 is dedicated to learning these.
+
+## What are my feelings
+- confused
+- happy
+- tired
+- ye
+  
 ## What's Next?
+- more!!!!
+  
 ---
 
 # Day 6 21/09/25
