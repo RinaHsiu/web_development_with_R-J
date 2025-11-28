@@ -767,6 +767,98 @@ section 9-11 is dedicated to learning these.
   
 ---
 
+# Day 24 28/11/25
+
+## Udemy
+
+### Media Query
+**Max-width**
+- targets smaller screens
+
+**Min-width**
+- targets bigger screens
+
+**combine**
+- targets screens between flkjasfkshfd and akssjdfkasjf
+- OR
+- targets screens less than alskfjlsakfjd and more than lskdfjlsdkfj
+
+## What are my feelings
+- tired
+- happy
+- ye
+
+## What's Next?
+- more!
+- project
+
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+
+---
+
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
+# Day 6 21/09/25
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+---
+
 # Day 6 21/09/25
 
 ## Udemy
@@ -793,8 +885,8 @@ section 9-11 is dedicated to learning these.
 ## What are my feelings
 
 ## What's Next?
----
 
+---
 # Day 6 21/09/25
 
 ## Udemy
