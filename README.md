@@ -794,13 +794,22 @@ section 9-11 is dedicated to learning these.
 
 ---
 
-# Day 6 21/09/25
+# Day 25 16/01/26
 
 ## Udemy
 
-## What are my feelings
+### project
+- its been quite a while since my last lesson with angela so we took this session as a revision session.
+- i forgot most thigs so we used claude code to help us
 
+## What are my feelings
+- like im useless
+- sad
+- tired
+  
 ## What's Next?
+- more revision until i remember
+  
 ---
 
 # Day 6 21/09/25
