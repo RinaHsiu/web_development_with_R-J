@@ -828,13 +828,28 @@ tired
   
 ---
 
-# Day 6 21/09/25
+# Day 27 05/02/26
 
 ## Udemy
 
+### Flex Direction
+when we changed the flex direction, we change it to the direciton of the main-axis. the main axis can be horizontal or verticle. we change this by using flex direcitiion
+to make it horizontal (it is usually defualted to be horizontal) we can do flex-direction: row.
+to make it verticle, we can do flex-direction: column
+
+### Flex Basis
+flex basis basically changes the height or width. which one it does depends on the flex direction. 
+if it's horizontal, it will change the width
+if it's verticle, it will change the height.
+
 ## What are my feelings
+happy
+proud
+tired
 
 ## What's Next?
+flex layers
+
 ---
 
 # Day 6 21/09/25
