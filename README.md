@@ -794,22 +794,38 @@ section 9-11 is dedicated to learning these.
 
 ---
 
-# Day 6 21/09/25
+# Day 25 16/01/26
 
 ## Udemy
 
-## What are my feelings
+### project
+- its been quite a while since my last lesson with angela so we took this session as a revision session.
+- i forgot most thigs so we used claude code to help us
 
+## What are my feelings
+- like im useless
+- sad
+- tired
+  
 ## What's Next?
+- more revision until i remember
+  
 ---
 
-# Day 6 21/09/25
+# Day 26 30/01/26
 
 ## Udemy
 
+### CSS Flexbox
+this makes everything much more easy to move and it would try to make everything in the flexbox to fit in the same line.
+once you put something in there, all the proterties to do with size disapears but you could still change it.
+
 ## What are my feelings
+tired
 
 ## What's Next?
+- more flex box
+  
 ---
 
 # Day 6 21/09/25
