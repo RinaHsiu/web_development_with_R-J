@@ -852,14 +852,62 @@ flex layers
 
 ---
 
-# Day 6 21/09/25
+# Day 28 08/02/26
 
 ## Udemy
 
+### Flex Layout
+the property can go onto 2 different things
+- the child (flex item)
+- the parent (the container)
+here are some examples
+
+**Order**
+- everything is defaulted to 0 so anything bigger than 0 would go at the end
+- this is set on the child (flex item)
+
+**Flex-Wrap**
+- flexbox will normally keep going on and not go onto a separate line
+- it's defaulted to nowrap
+- to change this we could change it to wrap
+- there is also wrap-reverse which just does it the other way round
+- this is set on the parent (the container)
+
+**Justify Content**
+- this sets the distribution of the items on the main axis.
+- there are many different types
+  - flex-start
+  - flex-end
+  - center
+  - space-between
+  - space-around
+  - space-evenly
+- they are all set on the parent (the container)
+
+**Align**
+- align-items and align-content
+  - this goes along the cross-axis
+  - for it to work, we need to set the height of the container
+  - its like the justifly content but on the cross-axis
+  - its normally set on the parent (container)
+  - align-content only works when wrap is on
+- align-self
+  - this is for if you want one item to be separate from the others
+  - this is set on the child (flex item)
+ 
+### Flexbox Froggy
+we also did a small practice game called flexbox foggy where we need to use flex layout and flex direction to move the frog to it's lily pad!
+
 ## What are my feelings
+- happy
+- proud
+- hungry
+- tired
 
 ## What's Next?
-
+- More!!
+- flex sizing
+  
 ---
 
 
