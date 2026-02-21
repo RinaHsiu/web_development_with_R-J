@@ -911,13 +911,28 @@ we also did a small practice game called flexbox foggy where we need to use flex
 ---
 
 
-# Day 6 21/09/25
+# Day 29 21/02/26
 
 ## Udemy
 
+### Flex Sizing
+flex box has a priority list
+1. min-width/max-width
+2. flex=basis
+3. width
+4. content width
+
+### Grow and Shrink 
+you can change the flex-grow and flex-shrink on or off
+
 ## What are my feelings
+- tired
+- happy
 
 ## What's Next?
+- project
+- more!!
+  
 ---
 
 # Day 6 21/09/25
