@@ -935,13 +935,36 @@ you can change the flex-grow and flex-shrink on or off
   
 ---
 
-# Day 6 21/09/25
+# Day 30 28/02/26
 
 ## Udemy
 
-## What are my feelings
+### CSS Grid
+while flexbox is good for 1d stuff, its not always good for 2d things. so programmers invented grid!
 
+grid will try to mke everything be perfectly in line. like a grid!
+
+to add grid, you just simply have to put:
+display: grid;
+
+there are 2 things in grid that we will use:
+grid-template-columns
+grid-template-rows
+
+columns show the fraction/ratio of the column. e.g. 1fr, 2fr
+rows show the fraction/ratio of the row. e.g. 1fr, 1fr
+
+if you don't want the grid to be responsive and move to fill the space when give more space, make sure to set a width so it won't move. 
+
+## What are my feelings
+- happy
+- tired
+- ye
+  
 ## What's Next?
+- CSS grid sizing
+- more!
+  
 ---
 
 # Day 6 21/09/25
