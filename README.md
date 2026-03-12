@@ -967,13 +967,35 @@ if you don't want the grid to be responsive and move to fill the space when give
   
 ---
 
-# Day 6 21/09/25
+# Day 31 12/03/26
 
 ## Udemy
 
-## What are my feelings
+### CSS Grid Item Placement
+- **Grid Styles**
+  - this is the smallest unit you can get
+  - they can be different sizes
+- **Grid Column**
+  - when you want an item to span more than 1 cell, you can write:
+  - grid-column: span 2;
+    - this is actually shorthand for 2 things
+    - grid-column-start
+    - grid-column-end
+    - you can set these individually too
+- **Grid Row**
+  - this works the same as grid column but for rows instead
+- **Grid Area**
+  - this is another shortcut for all of the above.
 
+## What are my feelings
+- tired
+- happy
+- ye
+  
 ## What's Next?
+- Project
+- more!
+
 ---
 
 # Day 6 21/09/25
