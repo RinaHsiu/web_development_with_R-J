@@ -998,13 +998,21 @@ if you don't want the grid to be responsive and move to fill the space when give
 
 ---
 
-# Day 6 21/09/25
+# Day 32 15/03/26
 
 ## Udemy
 
+### Project
+- re-create a painting using CSS Grid
+- i didn't get it at first so i watched the video and learnt from it.
+
 ## What are my feelings
+- tired
+- happy
 
 ## What's Next?
+- Bootstrap
+- more!!
 
 ---
 
