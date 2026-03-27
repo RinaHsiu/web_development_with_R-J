@@ -1016,13 +1016,29 @@ if you don't want the grid to be responsive and move to fill the space when give
 
 ---
 
-# Day 6 21/09/25
+# Day 33 27/03/26
 
 ## Udemy
 
-## What are my feelings
+### CSS Bootstrap
+- css bootstrap is a type of CSS framework.
+- CSS frameworks are pre-made css giles which you can include into your projects.
+- the reason why bootstrap is so popular is because of how easy it is to use.
+- all you have to do is go to getbootstrap.com and copy the link into the <head> section.
+- other popular frameworks are:
+  - foundation
+  - MUI
+  - tailwind
 
+## What are my feelings
+- happy
+- tired
+- ye
+  
 ## What's Next?
+- Bootstrap layout
+- more!!
+  
 ---
 
 # Day 6 21/09/25
