@@ -1041,14 +1041,47 @@ if you don't want the grid to be responsive and move to fill the space when give
   
 ---
 
-# Day 6 21/09/25
+# Day 34 2/04/26
 
 ## Udemy
 
+### Bootstrap Layout
+
+**12 column system**
+bootstrap has a 12 layout system where there is 12 columns in a row.
+
+**Auto fit**
+when you have multiple columns laid out in a row, Bootstrap will try to give them equal space.
+
+**Bootstrap Container**
+- it is reponsive
+- most commonly used : .container and .container-fluid
+- they all refere to the viewpoint WIDTH
+
+**Sized Columns**
+If each row has 12 columns, then col-2 would take up 2
+
+**Bootstrap Breakpoints**
+- extra small = xs = anything smaller than small
+- small = sm = 576px = mobile
+- medium = md = 768px = ipad
+- large = lg = 992px = laptop
+- extra large = xl = 1200px = desktop
+- extra exra large = xxl = anything bigger than xl
+
+you could have things like col=sm=2 which means if it was on a screen that was small, it would take up 2 columns. if it was any smaller, it would take up 100% width.
+
+you can also add different breakpoints on 1 div.
+
 ## What are my feelings
+- happy
+- tired
+- ye
 
 ## What's Next?
-
+- bootstrap components
+- more!!!!!
+  
 ---
 # Day 6 21/09/25
 
