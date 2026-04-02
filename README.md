@@ -1054,7 +1054,7 @@ bootstrap has a 12 layout system where there is 12 columns in a row.
 when you have multiple columns laid out in a row, Bootstrap will try to give them equal space.
 
 **Bootstrap Container**
-- it is reponsive
+- it is responsive
 - most commonly used : .container and .container-fluid
 - they all refere to the viewpoint WIDTH
 
