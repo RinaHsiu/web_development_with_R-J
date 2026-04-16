@@ -1083,13 +1083,37 @@ you can also add different breakpoints on 1 div.
 - more!!!!!
   
 ---
-# Day 6 21/09/25
+
+# Day 35 16/04/26
 
 ## Udemy
 
-## What are my feelings
+### Bootstrap Components
+they are PRE-BUILT and PRE-STYLED
 
+**Buttons**
+there are many different types of buttons
+- Dark Blue = Primary
+- Gray = Secondary
+- Green = Success
+- Red = Danger
+- Yellowy Orange = Warning
+- Light Blue = Information
+- White = light
+- Black = dark
+- white with blue underline = link
+
+EVERTHING IS FOUND ON THE getbootstrap.com website
+
+## What are my feelings
+- happy
+- tired
+- ye
+  
 ## What's Next?
+- bootstrap project
+- more!!!!!!
+  
 ---
 
 # Day 6 21/09/25
@@ -1100,4 +1124,173 @@ you can also add different breakpoints on 1 div.
 
 ## What's Next?
 
+---
+---
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
+------
+# Day 35 16/04/26
+
+## Udemy
+
+## What are my feelings
+
+## What's Next?
 ---
