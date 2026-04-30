@@ -1,3 +1,4 @@
+
 # web_development_with_R-J
 in this repository, we are going to take you along with us on our journey with Dr Angela Yu who is going to teach us all about web development!
 
@@ -1116,16 +1117,25 @@ EVERTHING IS FOUND ON THE getbootstrap.com website
   
 ---
 
-# Day 6 21/09/25
+# Day 36 30/04/26
 
 ## Udemy
 
+### Tindog Project
+in this project, we (I) make a Tindog website using all the different Bootstrap components and examples that we looked at. we used Hero, Features, Jumbotrons, Pricing and Footer as well as buttons. it was challenging but fun!
+
 ## What are my feelings
+- tired
+- proud
+- happy
+- ye
 
 ## What's Next?
+- Introduction to Web Design!
+- Moreeee!!!!
 
 ---
----
+
 # Day 35 16/04/26
 
 ## Udemy
