@@ -1136,21 +1136,119 @@ in this project, we (I) make a Tindog website using all the different Bootstrap 
 
 ---
 
-# Day 35 16/04/26
+# Day 37 09/05/26
 
 ## Udemy
 
+### Colour theory
+there are many moods that colours can show. 
+**Red**
+Love, Energy, Intensity
+
+**Yellow**
+Joy, Intellect, Attention
+
+**Green**
+Freshness, Safety, Growth
+
+**Blue**
+Stability, Trust, Serenity
+
+**Purple**
+Royalty, Wealth, Femininity
+
+### Combining Colours
+we can create many beautiful and aesthetic colours by using a colour wheel.
+**Complementary**
+opposite colours, good for standing out. dont use for text
+
+**Analogous**
+next door colours. Looks harmonious. Good for Logos and Backgrounds.
+
+**Good Websites to find colour combination**
+Adobe Colour
+Colour Hunt
+
 ## What are my feelings
+- happy
+- tired
+- ye
 
 ## What's Next?
+- typography
+- moreeeeeee!!!
+  
 ------
-# Day 35 16/04/26
+
+# Day 38 26/05/26
 
 ## Udemy
 
+### Typography
+fonts can also be used to show different moods.
+
+**Serif**
+Traditional, Stable, Respectable.
+e.g. Minion Pro, Trojan, Baskerville
+
+**Sans-Serif**
+Sensible, Simple, Striaghtfowards
+e.g. Helvectica, Avenir, Din
+
+**Script**
+MY FAVOURITE!!
+Personal, Creative, Elegent
+e.g. Freestyle script, Adios script pro, Shell roundhand
+
+**Display**
+Friendly, Loud, Amusing
+e.g. Vag rounded, Gin, Thirsty rough
+
+**Modern**
+Stylish, Chic, Smart
+e.g. Sockers Gothic, Gotham, Futura
+
+**How to tell how old the font is**
+to tell, look at the dfference between the thickness of a letter. the more exagerated it is, the more modern.
+
+### Combining Fonts
+when you are combining fonts, try to stick to only using 2 per website or webpage otherwise, it will look messy. try to use fonts with the same mood to make it look nice.
+
+### User Interface Design
+this is how to capture our audience's attention through:
+- Hierarchy
+- Layout
+- Alignment
+- Whitespace
+- Audience
+
+**Hierarchy**
+our brain will naturally go for the biggest piece of information on a screen so to make someone focus on the most important thing, you can make it bigger. 
+our brain will also focus on a colour that stands out on a page.
+
+**Layout**
+- have interesting layout
+- don't make the liegth of paragraphs too long. Aim for around 32 characters and 6 words per line.
+
+**Alignment**
+try to keep everything aligned
+
+**Whitespace**
+Think of a luxury bag store like coach then compare it to a discount shop, there is more whitespace between the bags in coach which makes it seem more high class.
+
+**Audience**
+when you are designing something, you should have a particular audience in mind that might click onto your website. if its a child, you would want to include things that will draw their attention, like colours.
+
 ## What are my feelings
+- happy
+- boiling
+- need water
+- ye
 
 ## What's Next?
+- user experiance
+- moreeee!!!
+
 ------
 # Day 35 16/04/26
 
