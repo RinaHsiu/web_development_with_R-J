@@ -1250,13 +1250,49 @@ when you are designing something, you should have a particular audience in mind 
 - moreeee!!!
 
 ------
-# Day 35 16/04/26
+# Day 39 29/05/26
 
 ## Udemy
 
+### User Experiance Design
+there are 5 steps to good UX
+- simplicity
+- consistency
+- reading pattern
+- all platform design
+- dont use your powers for evil!
+
+**Simplicity**
+keeping things simple is best
+
+**Consistency**
+keep things consistent and the Fuctionality consistent
+keep the nave bar the same
+
+**Reading Patterns**
+most people will read from the top line then browse down from the left hand side
+use the f-layout, all texts go from left to right
+or
+use the z-layout, better for fast browing or videos
+
+**All Platform Design**
+make sure that your website works for both mobile and desktop
+
+**DON'T USE YOUR POWERS FOR EVIL!!!**
+some designers design their websites to trick you into doing something that benifits them but not you.
+
+try to make sense of this sentence:
+If you would like us to no longer continue to stop not sending you secial deals and offers every week, please indicate you are inclined to yes by not clicking the box.
+
 ## What are my feelings
+- Happy
+- thirsty
+- ye
 
 ## What's Next?
+- project
+- moreeeeeeee
+  
 ------
 # Day 35 16/04/26
 
