@@ -1294,13 +1294,25 @@ If you would like us to no longer continue to stop not sending you secial deals 
 - moreeeeeeee
   
 ------
-# Day 35 16/04/26
+# Day 40 31/05/26
 
 ## Udemy
 
-## What are my feelings
+### The Canopy Lodge
+made a website of a hotel using all the Web design that we've learnt.
+https://thecanopylodge.my.canva.site/
+that is the link to it!
 
+## What are my feelings
+- very happy
+- very pround of what it turned out to be
+- tired
+- ye
+  
 ## What's Next?
+- introductio to JavaScript!!!!
+- moreeeeeee
+  
 ------
 # Day 35 16/04/26
 
