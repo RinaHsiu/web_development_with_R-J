@@ -1314,21 +1314,92 @@ that is the link to it!
 - moreeeeeee
   
 ------
-# Day 35 16/04/26
+
+# Day 41 20/06/26
 
 ## Udemy
 
-## What are my feelings
+### Introduction to Javascript
 
+In the beginning there was Mosaic
+
+it went from 
+**Mosaic** ------> **Netscape** ------> **Firefox**
+
+Javascript was created by a guy called Brendan Eich and he made it in 10 days!
+
+#### Java vs Javascript
+despite the similarity in names, java and javascript are as related as car and carpet are.
+Javascript is supported by all browsers
+the only reason why it was named Javascript was because the word was very popular at the time.
+
+**Java**
+java is a compiler. it runs programs all at once and very quickly but needs extra preparation time. however, if there is a problem in your code, it all goes wrong and you have to find it yourself.
+
+**Javascript**
+javascript however is something called an interpretor. it reads and exicutes your code line by line and it quite slow. however, if you noticed a mistake, you can instenetly change it.
+
+## What are my feelings
+- happy
+- tired
+- ye
+  
 ## What's Next?
+- Javascript alerts, data types and variables
+- moreeeee!!!!!
+
 ------
-# Day 35 16/04/26
+
+# Day 42 25/06/26
 
 ## Udemy
 
+### More javascript
+
+**Alerts**
+- these will pop up onto your screen with the message and is set out like this:
+- alert("Hello");
+- alert is the function, hello is the message and the semicolon is the end and you must have it
+
+**Data Types**
+a datatype is a way to tell a computor how the programmer whats to use the data.
+- String = anything in quotes
+- Number = munber
+- Boolean = true or false
+
+there is a way to fingure out what data type a data is. this is by writing:
+typeof(data type in here)
+e.g.
+- typeof(67);
+  number
+- typeof("Rina");
+  string
+- typeof(True);
+  boolean
+
+**Variables**
+a variable is a piece of information that you can store in the computor's memory.
+
+var myName = "Rina"
+
+**var** is the keyword, **myName** is the name and **Rina** is the value
+If you wanted to change it, use the same name but change the value. it will replace the old value. you dont have to reuse the keyword var.
+
+var yourName = prompt("What is your name?")
+this will store the userimput as the variable
+
+alert("My name is " + myName + ". Welcome to my life " + yourName + "!")
+if the user imput is Jason, this will print: 
+**My name is Rina. Welcome to my life Jason!**
+
 ## What are my feelings
+- happy
+- easy peasy
+- ye
 
 ## What's Next?
+- moreeeeee!!!!!
+
 ------
 # Day 35 16/04/26
 
