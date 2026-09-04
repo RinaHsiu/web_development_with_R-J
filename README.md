@@ -1401,13 +1401,25 @@ if the user imput is Jason, this will print:
 - moreeeeee!!!!!
 
 ------
-# Day 35 16/04/26
+# Day 43 04/09/26
 
 ## Udemy
 
+### Javascript Strings
+we learnt that:
+- to connect strings use the smae way as you would in python.
+- variable.toUpperCase()
+- variable.toLowerCase()
+- variable.slice(where to start, where to end)
+
 ## What are my feelings
+- happy
+- i like python more than javascript
 
 ## What's Next?
+- moreeeeee!
+- Arithmetic + modulo opperato
+   
 ------
 # Day 35 16/04/26
 
