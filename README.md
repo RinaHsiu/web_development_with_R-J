@@ -1421,13 +1421,40 @@ we learnt that:
 - Arithmetic + modulo opperato
    
 ------
-# Day 35 16/04/26
+# Day 44 10/09/26
 
 ## Udemy
 
+### Javascript
+**Numbers**
++ equals plus
+- equals minus
+* equals times
+/ equals divide
+% equals remainder
+if you want to do something first, put it in brackets
+
+**Functions**
+funcitons nameOfFunction(){
+   write your code here
+   write your code here
+   write your code here
+   write your code here
+{
+
+to call it, just write the funciton
+nameOfFunction();
+
+**Karol the robot**
+did the maze!
+
 ## What are my feelings
+- tired
+- happy
 
 ## What's Next?
+- moreeeeeeeeeee
+
 ------
 # Day 35 16/04/26
 
