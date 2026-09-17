@@ -1456,13 +1456,22 @@ did the maze!
 - moreeeeeeeeeee
 
 ------
-# Day 35 16/04/26
+# Day 45 17/09/26
 
 ## Udemy
 
+### Javascript
+
+learnt another way to use karol.
+
 ## What are my feelings
+- tired
+- happy
+- yeah
 
 ## What's Next?
+- moreeeee!
+
 ------
 # Day 35 16/04/26
 
