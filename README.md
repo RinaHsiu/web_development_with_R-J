@@ -1427,12 +1427,18 @@ we learnt that:
 
 ### Javascript
 **Numbers**
+
 '''
-+ equals plus
-- equals minus
-* equals times
-/ equals divide
-% equals remainder
+   /+ equals plus
+     
+   /- equals minus
+
+   /* equals times
+
+   / equals divide
+   
+   % equals remainder
+
 '''
 if you want to do something first, put it in brackets
 
