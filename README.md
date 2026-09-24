@@ -1481,13 +1481,29 @@ learnt another way to use karol.
 - moreeeee!
 
 ------
-# Day 35 16/04/26
+# Day 46 24/09/26
 
 ## Udemy
 
+### Javascript
+
+**Functions Part 2**
+
+to modify a function you can just add things in the brackets. to call it just add what you want to add in the brackets when you call it.
+
+**Ways to only get the Integer from a division**
+1. var bottles = Math.floor(x / y);
+2. var bottles = ~~(x/y)
+
+
 ## What are my feelings
+- tired
+- happy
+- yep
 
 ## What's Next?
+- Functions part 3
+
 ------
 # Day 35 16/04/26
 
