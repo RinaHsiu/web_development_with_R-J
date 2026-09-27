@@ -1505,13 +1505,24 @@ to modify a function you can just add things in the brackets. to call it just ad
 - Functions part 3
 
 ------
-# Day 35 16/04/26
+# Day 47 27/09/26
 
 ## Udemy
 
+### Javascript
+
+**Functions Part 3**
+- to add replys to the functions (ouputs), you can just add return then write what you want to return. basically the same as python.
+
 ## What are my feelings
+- tired
+- ear infection :(
+- happy
+- yep
 
 ## What's Next?
+- more functions practice
+  
 ------
 # Day 35 16/04/26
 
