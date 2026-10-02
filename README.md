@@ -1524,13 +1524,23 @@ to modify a function you can just add things in the brackets. to call it just ad
 - more functions practice
   
 ------
-# Day 35 16/04/26
+# Day 48 02/10/26
 
 ## Udemy
 
+### Javascript
+- practiced how to use return
+- to square a number, you use Math.pow(the number, the power)
+- to round a number, you use Math.round()
+
 ## What are my feelings
+- sad
+- tired
+- yep
 
 ## What's Next?
+- INTERMEDIATE JAVASCRIPT!!!!!
+
 ------
 # Day 35 16/04/26
 
